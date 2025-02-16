@@ -10,14 +10,14 @@ By leveraging these insights, Atliq Motors can develop a data-driven expansion s
 
 ### Tools and Technologies Used
 
-Microsoft Excel (Data cleaning, transformation, pivot tables, analysis)
-Data Visualization (Excel Dashboards)
+  - Microsoft Excel (Data cleaning, transformation, pivot tables, analysis)
+  - Data Visualization (Excel Dashboards)
 
 ### Datasets Used
 
-Date Dimension Dataset – Standardized date format for time-based analysis
-Maker-wise EV Sales Dataset – EV sales data (in 2-wheeler(2W) and 4-wheeler(4W) categories) by different manufacturers from 2021 to 2023
-State-wise EV Sales Dataset – EV sales data (in 2-wheeler and 4-wheeler categories) across different Indian states from 2021 to 2023
+  - Date Dimension Dataset – Standardized date format for time-based analysis
+  - Maker-wise EV Sales Dataset – EV sales data (in 2-wheeler(2W) and 4-wheeler(4W) categories) by different manufacturers from 2021 to 2023
+  - State-wise EV Sales Dataset – EV sales data (in 2-wheeler and 4-wheeler categories) across different Indian states from 2021 to 2023
 
 ### Key Analyses Performed
 
