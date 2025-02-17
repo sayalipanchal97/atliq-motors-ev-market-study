@@ -2,11 +2,7 @@
 
 ### Project Overview
 
-AtliQ Motors aims to expand its presence in the Indian Electric Vehicle (EV) market, where its market share is currently less than 2%. This project involves a detailed market study of the existing EV landscape in India, analyzing state-wise and maker-wise sales trends from 2021 to 2023. The objective is to identify high-growth regions, competitive market dynamics, and key success factors to guide Atliq Motors in:
-  - Selecting the right models for launch based on market demand
-  - Targeting high-potential states & cities with strong EV adoption
-  - Positioning Atliq Motors competitively against leading EV brands
-By leveraging these insights, Atliq Motors can develop a data-driven expansion strategy to increase its market penetration in India.
+AtliQ Motors aims to expand its presence in the Indian Electric Vehicle (EV) market, where its market share is less than 2%. This project involves a detailed market study of the existing EV landscape in India, analyzing state-wise and maker-wise sales trends from 2021 to 2023. The objective is to provide insights into EV market size, growth potential, and competition in India so that the executive team can make informed decisions about market entry
 
 ### Tools and Technologies Used
 
